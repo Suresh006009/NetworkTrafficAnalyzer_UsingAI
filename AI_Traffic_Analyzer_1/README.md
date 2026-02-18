@@ -39,12 +39,6 @@ Before running the tool, ensure you have the following installed on Windows:
 
 ## 📥 Installation
 
-1.  **Clone the Repository**
-    ```bash
-    git clone [https://github.com/YOUR_USERNAME/AI-Network-Traffic-Analyzer.git](https://github.com/YOUR_USERNAME/AI-Network-Traffic-Analyzer.git)
-    cd AI-Network-Traffic-Analyzer
-    ```
-
 2.  **Install Dependencies**
     ```bash
     pip install -r requirements.txt
@@ -63,4 +57,5 @@ Double-click the `run_analyzer.bat` file.
 ### Option 2: Manual Start
 Open Command Prompt **as Administrator** and run:
 ```bash
+
 python app.py
